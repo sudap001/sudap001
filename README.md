@@ -1,12 +1,14 @@
 # 👋 Hello, I'm Sonal Shankar Udapudi!
 
-Welcome to my GitHub profile! I’m a passionate computer science graduate with a strong interest in **data engineering**, **AI in cyber-physical systems**, and **cloud-based intelligent solutions**. I enjoy solving real-world problems using data-driven approaches, and I’m always exploring new tools and technologies that push the boundaries of innovation.
+Welcome to my GitHub profile! 
+I’m a passionate Computer Science graduate with a strong interest in **Data Engineering**, **AI in Cyber-Physical Systems**, and **Cloud-Based Intelligent Solutions**. I enjoy solving real-world problems using data-driven approaches, and I’m always exploring new tools and technologies that push the boundaries of innovation.
 
 ---
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sonal-shankar-udapudi-993393193)  
-- [GitHub](https://github.com/sudap001)  
+- [GitHub](https://github.com/sudap001)
+- [Resume](D:\Resumes)  
 - 📧 Email: sonalshankarrohini@gmail.com  
 - 📍 Location: Norfolk, VA, USA
 
@@ -42,7 +44,7 @@ Welcome to my GitHub profile! I’m a passionate computer science graduate with 
 - Designed a GUI to compare PCA, Wavelet, and IHS image fusion methods for clarity and spatial accuracy.
 
 ### 📡 **Soil Nutrient Detection System (IoT + Python)**  
-- Built an IoT system integrating multiple sensors and Python analysis to recommend optimal crops.
+- Built an IoT system integrating multiple sensors and Python analysis to recommend optimal crops for farming.
 
 ---
 
@@ -56,22 +58,22 @@ Welcome to my GitHub profile! I’m a passionate computer science graduate with 
 
 ---
 
-## 📃 Publications & Presentations
+## 📃 Publications & Conferences
 - 📝 *Automatic Soil Nutrients and Crop Detection Using IoT* — IJARIIE (2021)  
 - 🎤 *Exploring Challenges for the Girl Child in a Dynamic World* — National Conference, Tiruchirappalli (2024)  
 
 ---
 
 ## 💬 Leadership & Outreach
-- **Student Representative (Outreach)** — Global Student Friendship, ODU  
-- **Event Coordinator** — Computer Society of India, DSATM  
-- **Volunteer Lead** — National Service Scheme (NSS), India  
+- **Student Representative (Outreach)** — Global Student Friendship, ODU, USA  
+- **Event Coordinator** — Computer Society of India, DSATM, India  
+- **Volunteer Lead** — National Service Scheme (NSS), DSATM, India  
 
 ---
 
 ## 🌱 Currently Learning
-- Deepening skills in **cloud platforms**, **ML deployment**, and **data governance**.  
-- Exploring **semantic search systems**, **DevOps**, and **AI in CPS**.
+- Deepening skills in **Cloud Platforms**, **ML Deployment**, and **Data Governance**.  
+- Exploring **Semantic Search Systems**, **DevOps**, and **AI in CPS**.
 
 ---
 
