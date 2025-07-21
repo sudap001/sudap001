@@ -8,7 +8,7 @@ I’m a passionate Computer Science graduate with a strong interest in **Data En
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sonal-shankar-udapudi-993393193)  
 - [GitHub](https://github.com/sudap001)
-- [Resume](D:\Resumes)  
+- [Resume](Sonal Shankar Udapudi_Resume.pdf)  
 - 📧 Email: sonalshankarrohini@gmail.com  
 - 📍 Location: Norfolk, VA, USA
 
